@@ -6,8 +6,6 @@ body {
 header {
     font-weight: 600;
     font-size: 24px;
-
-    padding: 20px;
 }
 
 main {
@@ -15,11 +13,7 @@ main {
     align-items: center;
     justify-content: space-between;
 
-    margin-top: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 50px;
-
+    margin: 50px 50px 50px 50px;
 }
 aside img{
     width: 400px;
@@ -44,7 +38,7 @@ section h1 {
 
 
     line-height: 71px;
-    letter-spacing: .3em;
+    letter-spacing: .35em;
     margin-bottom: 1.7rem;
 }
 
